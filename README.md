@@ -1,7 +1,7 @@
 ### Resume
-#MonabotiGaganaSindhu
+# MonabotiGaganaSindhu
 =====================
-##Personal details
+## Personal details
 
 - D/o **ChandraSekhar**
 - Email:**gaganasindhu0106@gmail**
@@ -9,7 +9,7 @@
 - dateOfBrith:01/06/2002
 - Address-**arundhati nagar 3 rd lane guntur**
 
-###Euducation details
+### Euducation details
 
  -B.tech
  
@@ -32,7 +32,7 @@
  - **2016-2017**
  - **Guntur**
  
--Technical skills
+#### Technical skills
 
  - **c**
  - **git and github**
@@ -40,7 +40,7 @@
  - **python** 
  - **DBMS**
  
-#### Certification
+##### Certification
 
  - completed programming for java in **NPTEL**
  - certified by fullstack nanodegree in **udacity**
