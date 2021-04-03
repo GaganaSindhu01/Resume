@@ -5,7 +5,7 @@
 
 - D/o **ChandraSekhar**
 - Email:**gaganasindhu0106@gmail**
-- phoneno:**7688730566**
+- phoneno:**8688730566**
 - dateOfBrith:01/06/2002
 - Address:**arundhati nagar 3 rd lane guntur**
 
