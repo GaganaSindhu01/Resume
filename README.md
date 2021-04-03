@@ -1,7 +1,7 @@
 ### Resume
 # MonabotiGaganaSindhu
 =====================
-## Personal details
+##  Personal details
 
 - D/o **ChandraSekhar**
 - Email:**gaganasindhu0106@gmail**
